@@ -1,4 +1,4 @@
----
+-https://bscscan.com/address/0x43c652589067d0a685e8dd970f63d6d1c9ad0b3d#code#L1--
 title: MIT License
 spdx-id: MIT
 featured: true
